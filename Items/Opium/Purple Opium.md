@@ -1,0 +1,3 @@
+- hyper-awareness
+- speed / stimulant
+- Nothing can surprise you

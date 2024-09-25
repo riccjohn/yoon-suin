@@ -1,0 +1,1 @@
+- Wearing black turban with silver emblem on it

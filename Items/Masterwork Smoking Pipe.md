@@ -1,0 +1,1 @@
+- Smokers can have shared hallucinations

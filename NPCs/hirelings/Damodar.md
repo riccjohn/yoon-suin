@@ -1,0 +1,3 @@
+- big nose
+- dagger, short bow
+- whistles constantly
