@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "leaflet-map",
-      "lastAccessed": 1726019807367,
+      "lastAccessed": 1727831632861,
       "markers": [
         {
           "id": "ID_d89a2a48bb0b",
@@ -16,6 +16,26 @@
           "mutable": true,
           "command": false,
           "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_082bf8098a58",
+          "type": "default",
+          "loc": [
+            -1.05859375,
+            1.6318515608335111
+          ],
+          "link": "Beetle Ranch",
+          "layer": "%5B%5BSunset_District.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6032548730301499,
+            0.640661938534279
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,

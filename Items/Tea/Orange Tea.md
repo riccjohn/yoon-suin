@@ -1,0 +1,2 @@
+- Relaxed, everything takes on glowing feeling
+- Meant to be swished  in mouth and then spit into empty cup

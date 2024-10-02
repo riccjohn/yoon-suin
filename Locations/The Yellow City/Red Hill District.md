@@ -1,0 +1,1 @@
+Half-abandoned, people peer at you out of windows

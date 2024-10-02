@@ -9,16 +9,16 @@
 Carvings of slug-men faces all over the place. Almost all eye-stalks snapped off. Many defaced.
 Several basins with open slug mouths above them, no long working. Basins filled with dust
 
-1. 1
+1. Entryway
 2. Stone Dais
 3. Crab-men Fighting Pits
-4. --
-5. --
-6. --
+4. Hot Tub
+5. Flat Door
+6. ?
 7. ?
 	1. Door to E labeled 'Catacombs of Maa'
-8. --
-9. --
+8. Pit trap
+9. -
 10. Mango tree growing through ceiling
 11. --
 12. Ballista facing South
@@ -51,4 +51,7 @@ Several basins with open slug mouths above them, no long working. Basins filled 
 17. 17
 18. Vaulted Ceiling
 	1. Pillars - similar to atlas sculptures
-	2. 
+19. Mortuary
+	1. Human skeletons / skulls
+	2. Clay jars on floor
+	3. Rotten wooden furniture

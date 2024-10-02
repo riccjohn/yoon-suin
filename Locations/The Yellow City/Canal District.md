@@ -1,0 +1,3 @@
+- Choked with gondolas
+- Shallow canals, polluted with sewage
+- 

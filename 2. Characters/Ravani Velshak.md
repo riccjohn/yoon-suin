@@ -3,10 +3,10 @@
 **Race:** Human
 **Class:** [Fighter](https://oldschoolessentials.necroticgnome.com/srd/index.php/Fighter)
 **Level:** 1 (max 14)
-**XP:** 855 / 2,000
+**XP:** 1441 (* 0.05) = 1513 / 2,000
 XP Modifier: +5%
 Prime Requisite: STR
-Gold: 747 tokens
+Gold: 1339 tokens
 ## Combat
 **HP:**  8/8
 Hit Die: 1d8
@@ -36,6 +36,9 @@ Hit Die: 1d8
 ## Languages
 *By class; extra langs. if INT 13+*
 Trade tongue, Lamarakhi
+
+### Diety
+Gielik, Lord of Protection
 
 ## [Ability Scores](https://oldschoolessentials.necroticgnome.com/srd/index.php/Ability_Scores)
 *Ability Check: Roll under or equal on 1d20*
@@ -84,27 +87,27 @@ Expert with swords
 
 ### Items
 
-| STR | Item          | Count | Cost | Movement   |
-| --- | ------------- | ----- | ---- | ---------- |
-| 18+ | -             |       |      | 120’ (40’) |
-| 16+ | -             |       |      |            |
-| 13+ | Iron spikes   | 10    | 1    |            |
-| 9+  | Torches       | 4     | 1    |            |
-| 6+  | Waterskin     |       | 1    |            |
-| 4+  | Rope (50')    |       | 1    |            |
-| 7   | Tinderbox     |       | 3    |            |
-| 8   | Rations (std) | 7     | 15   |            |
-| 9   | Sword         |       | 10   |            |
-| 10  | Chainmail     |       | 40   |            |
-| 11  | Shield        |       | 10   |            |
-| 12  | Pole (10')    |       |      |            |
-| 13  |               |       |      |            |
-| 14  |               |       |      | 90' (30')  |
-| 15  |               |       |      |            |
-| 16  |               |       |      | 60’ (20’)  |
-| 17  |               |       |      |            |
-| 18  |               |       |      | 30’ (10’)  |
-| 19  |               |       |      |            |
+| STR | Item                 | Count | Cost | Movement   |
+| --- | -------------------- | ----- | ---- | ---------- |
+| 18+ | -                    |       |      | 120’ (40’) |
+| 16+ | -                    |       |      |            |
+| 13+ | Iron spikes          | 10    | 1    |            |
+| 9+  | Torches              | 4     | 1    |            |
+| 6+  | Waterskin            |       | 1    |            |
+| 4+  | Rope (50')           |       | 1    |            |
+| 7   | Tinderbox            |       | 3    |            |
+| 8   | Rations (std)        | 7     | 15   |            |
+| 9   | Sword                |       | 10   |            |
+| 10  | Chainmail            |       | 40   |            |
+| 11  | Shield               |       | 10   |            |
+| 12  | Pole (10')           |       |      |            |
+| 13  | Jar of white powder  | 3     |      |            |
+| 14  | Smoking Pipe (Sebsi) |       |      | 90' (30')  |
+| 15  |                      |       |      |            |
+| 16  |                      |       |      | 60’ (20’)  |
+| 17  |                      |       |      |            |
+| 18  |                      |       |      | 30’ (10’)  |
+| 19  |                      |       |      |            |
 ### Unencumbering Items
 
 | Item      | Count | Cost |
