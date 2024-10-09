@@ -1,3 +1,3 @@
-Works for [[Barra-Maa]]
+Works for [[Ban-Maa]]
 Skin dyed purple
-Liaison between us and [[Barra-Maa]]
+Liaison between us and [[Ban-Maa]]
